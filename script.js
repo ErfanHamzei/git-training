@@ -4,7 +4,6 @@ card.addEventListener("click",() => {
 alert("You clicked the card !");
 });
 
-
 card.addEventListener("dblclick",() => {
-alert("You Double Clicked the card");
-});
+    alert("Double Click !");
+})
